@@ -18,9 +18,6 @@ public class User {
     private int userId;
     private String userName;
     private String password;
-    private String token;
-    private String refreshToken;
-    private Date tokenExpiryDate;
     private String urlOrigin;
     private String userType;
     private String userRole;
